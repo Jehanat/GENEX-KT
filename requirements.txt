@@ -1,0 +1,23 @@
+torch>=2.2
+numpy>=1.26
+pandas>=2.0
+scikit-learn>=1.4
+scipy>=1.11
+optuna>=3.5
+krippendorff>=0.6
+shap>=0.45
+diffusers>=0.27
+gensim>=4.3
+pykt-toolkit          # install with --no-deps (DKT / SAKT / AKT baselines)
+wandb>=0.16           # optional experiment tracking (GENEX_WANDB=1)
+gdown>=5.0            # EdNet download
+# open-source LLMs (Qwen2.5-7B, Phi-3.5-mini, optional LLaMA-3-8B), 4-bit on a 16 GB GPU
+transformers>=4.43
+accelerate>=0.27
+bitsandbytes>=0.43
+# demo app
+gradio>=4.0
+plotly>=5.0
+# optional hosted backends (not used in the thesis run)
+# openai>=1.0
+# anthropic>=0.40

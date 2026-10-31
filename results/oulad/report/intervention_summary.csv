@@ -1,0 +1,9 @@
+explainer,plan,len,error_coverage,struggle_recall,precision_seen,prereq_order_ok
+phi35,baseline,0.01,0.0,0.0,0.0,
+phi35,genex,1.92,0.25,0.25,0.2,1.0
+qwen25,baseline,0.01,0.0,0.0,0.0,
+qwen25,genex,1.92,0.25,0.25,0.2,1.0
+qwen25_free,baseline,0.01,0.0,0.0,0.0,
+qwen25_free,genex,1.92,0.25,0.25,0.2,1.0
+template,baseline,0.01,0.0,0.0,0.0,
+template,genex,1.92,0.25,0.25,0.2,1.0

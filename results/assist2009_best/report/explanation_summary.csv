@@ -1,0 +1,5 @@
+backend,prompt_mode,n,cutoff,faithfulness_pass_rate,claim_level_faithfulness,n_without_claims,n_parse_errors,llm,generation_seconds_per_student,future_acc_on_flagged_gaps,n_gap_concepts_seen_in_test,future_acc_on_flagged_mastered,n_mastered_concepts_seen_in_test
+phi35,grounded,100,pre_test,0.2,0.662020905923345,11,11,microsoft/Phi-3.5-mini-instruct,17.64,0.6224417426545086,47,0.6733996877439501,61
+qwen25,grounded,100,pre_test,0.69,0.9064220183486239,0,0,Qwen/Qwen2.5-7B-Instruct,10.48,0.6336718020541551,51,0.8535214785214785,26
+qwen25_free,free,100,pre_test,0.27,0.5872781065088757,0,0,Qwen/Qwen2.5-7B-Instruct,10.93,0.6782232337379396,78,0.7884373690825304,31
+template,grounded,100,pre_test,1.0,1.0,12,0,template,0.0,0.5268707482993197,35,0.8690476190476191,21

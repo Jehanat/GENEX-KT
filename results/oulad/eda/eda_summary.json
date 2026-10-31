@@ -1,0 +1,36 @@
+{
+  "dataset": "oulad",
+  "n_students": 16481,
+  "n_interactions": 154845,
+  "n_concepts": 14,
+  "n_items": 188,
+  "overall_accuracy": 0.9614324001420775,
+  "seq_len": {
+    "min": 5.0,
+    "p25": 7.0,
+    "median": 9.0,
+    "p75": 12.0,
+    "max": 28.0,
+    "mean": 9.395364358958801
+  },
+  "share_seq_over_200": 0.0,
+  "concepts_per_student_median": 2.0,
+  "student_accuracy_median": 1.0,
+  "student_accuracy_iqr": [
+    1.0,
+    1.0
+  ],
+  "response_time_available": 0.0,
+  "response_time_median_s": null,
+  "split_counts": {
+    "train": 120639,
+    "val": 17103,
+    "test": 17103
+  },
+  "split_accuracy": {
+    "test": 0.9298953399988306,
+    "train": 0.9701671930304462,
+    "val": 0.9313570718587383
+  },
+  "items_per_concept_median": 11.0
+}

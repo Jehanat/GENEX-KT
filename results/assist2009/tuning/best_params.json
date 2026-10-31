@@ -1,0 +1,13 @@
+{
+  "val_auc": 0.7458017467499987,
+  "d_model": 64,
+  "n_heads": 4,
+  "n_layers": 3,
+  "dropout": 0.06488340161043304,
+  "diffusion_steps": 200,
+  "lambda_diff": 0.19777259747673215,
+  "lambda_noisy_bce": 0.595255786755482,
+  "lr": 0.0022764318325551877,
+  "batch_size": 32,
+  "note": "Best of 100 Optuna trials (15 epochs, median pruner) on ASSISTments 2009, Colab T4, 27 Oct 2026. Recovered from the run log after the Colab session ended; optuna.db/trials.csv were lost."
+}

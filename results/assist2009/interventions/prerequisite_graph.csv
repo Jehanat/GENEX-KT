@@ -1,0 +1,230 @@
+pre,post,precedence,lift,support,pre_name,post_name
+90,80,1.0,0.7625448028673835,68,Equation Solving Two or Fewer Steps,Area Rectangle
+71,19,1.0,0.4279279279279278,43,Addition and Subtraction Integers,Angles on Parallel Lines Cut by a Transversal
+74,4,1.0,0.4063492063492063,110,Addition and Subtraction Fractions,Number Line
+74,69,1.0,0.36296296296296293,32,Addition and Subtraction Fractions,Rate
+74,94,1.0,0.36137193531559725,151,Addition and Subtraction Fractions,Write Linear Equation from Ordered Pairs
+71,16,1.0,0.3431372549019608,61,Addition and Subtraction Integers,Interior Angles Triangle
+31,93,1.0,0.32638888888888884,54,Ordering Positive Decimals,Greatest Common Factor
+65,59,1.0,0.3125,31,Algebraic Solving,Unnamed skill #101
+35,59,1.0,0.3071428571428572,97,Addition Whole Numbers,Unnamed skill #101
+82,1,1.0,0.3043010752688171,36,Area Triangle,Box and Whisker
+89,69,1.0,0.2932692307692308,34,Order of Operations All,Rate
+90,82,1.0,0.2847985347985349,59,Equation Solving Two or Fewer Steps,Area Triangle
+72,83,1.0,0.2844202898550724,54,Addition and Subtraction Positive Decimals,Surface Area Cylinder
+39,68,1.0,0.27850877192982454,31,Multiplication Fractions,Percents
+45,78,1.0,0.2749391727493918,150,Proportion,Area Irregular Figure
+72,97,1.0,0.27204585537918874,122,Addition and Subtraction Positive Decimals,Write Linear Equation from Graph
+35,85,1.0,0.27163120567375887,52,Addition Whole Numbers,Volume Cylinder
+71,65,1.0,0.27037037037037037,49,Addition and Subtraction Integers,Algebraic Solving
+74,24,1.0,0.26919073640385127,204,Addition and Subtraction Fractions,Area Circle
+39,4,1.0,0.24751984126984128,103,Multiplication Fractions,Number Line
+36,46,1.0,0.17499999999999993,48,Division Fractions,Scale Factor
+72,50,1.0,0.16011466011466013,48,Addition and Subtraction Positive Decimals,Prime Number
+36,68,1.0,0.13446969696969693,30,Division Fractions,Percents
+41,69,1.0,0.12380952380952381,32,Subtraction Whole Numbers,Rate
+31,62,1.0,0.12288557213930351,139,Ordering Positive Decimals,D.4.8-understanding-concept-of-probabilities
+82,3,1.0,0.1085271317829456,48,Area Triangle,Histogram as Table or Graph
+90,91,0.9966442953020134,0.1699226699226699,298,Equation Solving Two or Fewer Steps,Equation Solving More Than Two Steps
+72,70,0.9961089494163424,0.26048142834369536,257,Addition and Subtraction Positive Decimals,Multiplication and Division Positive Decimals
+31,22,0.996,0.2685007053995127,250,Ordering Positive Decimals,Unit Conversion Within a System
+74,78,0.993421052631579,0.36151079136690645,152,Addition and Subtraction Fractions,Area Irregular Figure
+31,78,0.9933774834437086,0.32839506172839505,151,Ordering Positive Decimals,Area Irregular Figure
+90,81,0.9930555555555556,0.45342730790491986,144,Equation Solving Two or Fewer Steps,Area Trapezoid
+90,94,0.993006993006993,0.3858974358974358,143,Equation Solving Two or Fewer Steps,Write Linear Equation from Ordered Pairs
+90,56,0.9894736842105263,0.3424534360950545,190,Equation Solving Two or Fewer Steps,Unnamed skill #96
+74,95,0.9887005649717514,0.2629516019086571,177,Addition and Subtraction Fractions,Write Linear Equation from Situation
+31,86,0.9887005649717514,0.17675576519916159,177,Ordering Positive Decimals,Volume Rectangular Prism
+31,110,0.9872340425531915,0.22765834774730243,235,Ordering Positive Decimals,Solving for a variable
+65,90,0.9861111111111112,0.22015873015873022,72,Algebraic Solving,Equation Solving Two or Fewer Steps
+73,38,0.9858490566037735,0.19990570485619996,212,Multiplication and Division Integers,Least Common Multiple
+50,23,0.9846153846153847,0.310359231411863,65,Prime Number,Effect of Changing Dimensions of a Shape Prportionally
+45,23,0.984375,0.23196881091617924,192,Proportion,Effect of Changing Dimensions of a Shape Prportionally
+61,58,0.9836065573770492,0.15917843388960196,61,Unnamed skill #105,Unnamed skill #99
+73,84,0.9830508474576272,0.4672619047619047,236,Multiplication and Division Integers,Surface Area Rectangular Prism
+35,81,0.9818181818181818,0.4755102040816327,55,Addition Whole Numbers,Area Trapezoid
+82,84,0.9818181818181818,0.45339412360688963,55,Area Triangle,Surface Area Rectangular Prism
+81,83,0.9814814814814815,0.2784679089026915,54,Area Trapezoid,Surface Area Cylinder
+82,23,0.9803921568627451,0.40740740740740744,51,Area Triangle,Effect of Changing Dimensions of a Shape Prportionally
+31,25,0.9800995024875622,0.18134199134199147,201,Ordering Positive Decimals,Circumference 
+41,19,0.9787234042553191,0.4629629629629629,47,Subtraction Whole Numbers,Angles on Parallel Lines Cut by a Transversal
+4,3,0.9775280898876404,0.11038961038961026,89,Number Line,Histogram as Table or Graph
+73,22,0.9772727272727273,0.25744400527009215,264,Multiplication and Division Integers,Unit Conversion Within a System
+31,5,0.9759036144578314,0.29512992600240917,166,Ordering Positive Decimals,Scatter Plot
+87,7,0.975609756097561,0.18686868686868685,123,Volume Sphere,Table
+33,11,0.9734513274336283,0.5064102564102564,113,Ordering Integers,Range
+54,53,0.9723756906077348,0.22136970730321126,181,Pattern Finding ,Unnamed skill #91
+97,75,0.9714285714285714,0.38055555555555565,35,Write Linear Equation from Graph,Reflection
+42,56,0.96875,0.39880952380952384,32,Square Root,Unnamed skill #96
+39,48,0.9682539682539683,0.1068376068376069,63,Multiplication Fractions,Scientific Notation
+43,87,0.967391304347826,0.1394418423106949,92,Unnamed skill #76,Volume Sphere
+31,28,0.9669811320754716,0.3064327485380117,212,Ordering Positive Decimals,Calculations with Similar Figures
+32,56,0.9666666666666667,0.40213675213675215,210,Ordering Fractions,Unnamed skill #96
+73,14,0.9659090909090909,0.510548523206751,176,Multiplication and Division Integers,Probability of a Single Event
+32,55,0.9638009049773756,0.4500805152979067,221,Ordering Fractions,Unnamed skill #94
+39,65,0.9636363636363636,0.10501355013550129,55,Multiplication Fractions,Algebraic Solving
+28,93,0.9629629629629629,0.38068181818181823,54,Calculations with Similar Figures,Greatest Common Factor
+90,110,0.9628099173553719,0.26405369771065557,242,Equation Solving Two or Fewer Steps,Solving for a variable
+25,16,0.9622641509433962,0.7956521739130434,53,Circumference ,Interior Angles Triangle
+53,83,0.9622641509433962,0.25217391304347825,53,Unnamed skill #91,Surface Area Cylinder
+71,54,0.9621993127147767,0.3314780457637601,291,Addition and Subtraction Integers,Pattern Finding 
+90,87,0.9621212121212122,0.18579234972677594,132,Equation Solving Two or Fewer Steps,Volume Sphere
+74,43,0.9619771863117871,0.26228106185002736,263,Addition and Subtraction Fractions,Unnamed skill #76
+42,2,0.96,0.3095238095238096,100,Square Root,Circle Graph
+39,50,0.9591836734693877,0.306910569105691,49,Multiplication Fractions,Prime Number
+43,57,0.9591836734693877,0.1274691358024691,49,Unnamed skill #76,Unnamed skill #97
+74,45,0.9560185185185185,0.24019607843137258,432,Addition and Subtraction Fractions,Proportion
+31,26,0.9540816326530612,0.23725490196078447,196,Ordering Positive Decimals,Perimeter of a Polygon
+49,2,0.9528301886792453,0.3130806391675956,106,Divisibility Rules,Circle Graph
+90,13,0.9526315789473684,0.4801169590643275,190,Equation Solving Two or Fewer Steps,Probability of Two Distinct Events
+54,9,0.9506172839506173,0.3517094017094016,81,Pattern Finding ,Mean
+31,15,0.9483870967741935,0.3957219251336898,155,Ordering Positive Decimals,Interior Angles Figures with More than 3 Sides
+29,26,0.9481132075471698,0.22553030303030286,212,Conversion of Fraction Decimals Percents,Perimeter of a Polygon
+83,87,0.9433962264150944,0.1166666666666667,53,Surface Area Cylinder,Volume Sphere
+42,37,0.9418604651162791,0.47456709956709975,172,Square Root,Estimation
+42,10,0.9418604651162791,0.3668831168831168,86,Square Root,Median
+38,82,0.9393939393939394,0.17909356725146197,33,Least Common Multiple,Area Triangle
+37,47,0.937007874015748,0.3926605504587156,127,Estimation,Unit Rate
+17,70,0.936,0.21607142857142858,125,Congruence,Multiplication and Division Positive Decimals
+71,43,0.9358974358974359,0.2785567010309278,234,Addition and Subtraction Integers,Unnamed skill #76
+35,26,0.935064935064935,0.2659340659340659,77,Addition Whole Numbers,Perimeter of a Polygon
+42,47,0.9333333333333333,0.3514367816091955,135,Square Root,Unit Rate
+28,51,0.9318181818181818,0.3825536062378168,132,Calculations with Similar Figures,Absolute Value (#85)
+74,70,0.9304029304029304,0.3167394468704512,273,Addition and Subtraction Fractions,Multiplication and Division Positive Decimals
+31,32,0.9297597042513863,0.20830502992075017,541,Ordering Positive Decimals,Ordering Fractions
+48,2,0.9270833333333334,0.32016594516594526,96,Scientific Notation,Circle Graph
+82,15,0.926829268292683,0.42828282828282827,41,Area Triangle,Interior Angles Figures with More than 3 Sides
+74,44,0.9254079254079254,0.27856691919191917,429,Addition and Subtraction Fractions,Finding Percents
+90,6,0.9238095238095239,0.3129578754578755,210,Equation Solving Two or Fewer Steps,Stem and Leaf Plot
+31,20,0.9193548387096774,0.3111801242236024,186,Ordering Positive Decimals,Pythagorean Theorem
+73,52,0.9186602870813397,0.2922312556458897,418,Multiplication and Division Integers,Exponents
+28,76,0.9183673469387755,0.1313131313131313,49,Calculations with Similar Figures,Rotations
+90,11,0.9180327868852459,0.5466200466200466,122,Equation Solving Two or Fewer Steps,Range
+90,53,0.9175257731958762,0.21805829498137197,194,Equation Solving Two or Fewer Steps,Unnamed skill #91
+90,8,0.9122807017543859,0.22866344605475053,171,Equation Solving Two or Fewer Steps,Venn Diagram
+35,42,0.9085714285714286,0.21867715617715622,175,Addition Whole Numbers,Square Root
+73,44,0.9075144508670521,0.4732470334412081,346,Multiplication and Division Integers,Finding Percents
+20,1,0.9069767441860465,0.254406130268199,129,Pythagorean Theorem,Box and Whisker
+31,11,0.905511811023622,0.4330462681526511,127,Ordering Positive Decimals,Range
+25,77,0.9047619047619048,0.45622119815668205,42,Circumference ,Translations
+49,9,0.9038461538461539,0.4397546897546898,52,Divisibility Rules,Mean
+73,54,0.903448275862069,0.5214055193308306,290,Multiplication and Division Integers,Pattern Finding 
+73,6,0.9025641025641026,0.27914230019493175,195,Multiplication and Division Integers,Stem and Leaf Plot
+94,95,0.9022556390977443,0.23665223665223678,133,Write Linear Equation from Ordered Pairs,Write Linear Equation from Situation
+29,75,0.9019607843137255,0.37973137973137977,51,Conversion of Fraction Decimals Percents,Reflection
+90,84,0.9014778325123153,0.3999718230487462,203,Equation Solving Two or Fewer Steps,Surface Area Rectangular Prism
+35,31,0.8997429305912596,0.15312738367658274,389,Addition Whole Numbers,Ordering Positive Decimals
+31,16,0.8955223880597015,0.5,67,Ordering Positive Decimals,Interior Angles Triangle
+72,37,0.8955223880597015,0.4699792960662525,67,Addition and Subtraction Positive Decimals,Estimation
+90,57,0.8953488372093024,0.19490740740740742,86,Equation Solving Two or Fewer Steps,Unnamed skill #97
+73,40,0.8947368421052632,0.35908476865923666,323,Multiplication and Division Integers,Percent Of
+90,12,0.8940092165898618,0.1839947089947091,217,Equation Solving Two or Fewer Steps,Counting Methods
+62,1,0.8913043478260869,0.2485380116959064,92,D.4.8-understanding-concept-of-probabilities,Box and Whisker
+35,36,0.8902439024390244,0.1691137566137566,328,Addition Whole Numbers,Division Fractions
+39,34,0.889763779527559,0.27294007490636707,127,Multiplication Fractions,Rounding
+45,46,0.8888888888888888,0.203339296362552,63,Proportion,Scale Factor
+46,37,0.8857142857142857,0.35897435897435886,35,Scale Factor,Estimation
+74,34,0.8837209302325582,0.25921985815602855,129,Addition and Subtraction Fractions,Rounding
+90,28,0.8817733990147784,0.2621816168327797,203,Equation Solving Two or Fewer Steps,Calculations with Similar Figures
+90,55,0.8779661016949153,0.36887389867841414,295,Equation Solving Two or Fewer Steps,Unnamed skill #94
+29,19,0.8771929824561403,0.3861693861693861,57,Conversion of Fraction Decimals Percents,Angles on Parallel Lines Cut by a Transversal
+39,43,0.8764940239043825,0.21306360708534625,251,Multiplication Fractions,Unnamed skill #76
+39,9,0.875,0.367003367003367,96,Multiplication Fractions,Mean
+94,51,0.875,0.20490196078431366,128,Write Linear Equation from Ordered Pairs,Absolute Value (#85)
+74,36,0.8737373737373737,0.21675404476013305,594,Addition and Subtraction Fractions,Division Fractions
+73,42,0.8728323699421965,0.37466931216931204,173,Multiplication and Division Integers,Square Root
+74,52,0.8713592233009708,0.21316102198455145,412,Addition and Subtraction Fractions,Exponents
+73,34,0.8712121212121212,0.4490740740740741,132,Multiplication and Division Integers,Rounding
+52,49,0.8686868686868687,0.3614864864864865,99,Exponents,Divisibility Rules
+110,57,0.8666666666666667,0.14340198321891695,75,Solving for a variable,Unnamed skill #97
+110,58,0.8636363636363636,0.2321428571428571,44,Solving for a variable,Unnamed skill #99
+90,20,0.8626373626373627,0.33322955583229563,182,Equation Solving Two or Fewer Steps,Pythagorean Theorem
+33,38,0.8624338624338624,0.19497523000707717,189,Ordering Integers,Least Common Multiple
+36,48,0.8620689655172413,0.16839916839916835,58,Division Fractions,Scientific Notation
+89,91,0.8613861386138614,0.1416642672041465,202,Order of Operations All,Equation Solving More Than Two Steps
+73,89,0.8604651162790697,0.24121990568379242,387,Multiplication and Division Integers,Order of Operations All
+71,38,0.8588235294117647,0.18576809254775345,255,Addition and Subtraction Integers,Least Common Multiple
+90,7,0.8582375478927203,0.37631263126312636,261,Equation Solving Two or Fewer Steps,Table
+29,40,0.858139534883721,0.18637188208616784,430,Conversion of Fraction Decimals Percents,Percent Of
+73,49,0.8562091503267973,0.12720097146326653,153,Multiplication and Division Integers,Divisibility Rules
+82,8,0.8558558558558559,0.16666666666666674,111,Area Triangle,Venn Diagram
+73,32,0.8556962025316456,0.2832998661311915,395,Multiplication and Division Integers,Ordering Fractions
+48,10,0.8554216867469879,0.3891369047619048,83,Scientific Notation,Median
+73,39,0.8521897810218978,0.21314793053923503,548,Multiplication and Division Integers,Multiplication Fractions
+50,45,0.8521739130434782,0.3022727272727272,115,Prime Number,Proportion
+57,61,0.8493150684931506,0.5662337662337662,73,Unnamed skill #97,Unnamed skill #105
+42,45,0.8424242424242424,0.29955229955229956,165,Square Root,Proportion
+88,14,0.8387096774193549,0.29208200777659965,186,"Order of Operations +,-,/,* () positive reals",Probability of a Single Event
+25,18,0.8380281690140845,0.4233038348082595,142,Circumference ,Complementary and Supplementary Angles
+3,77,0.8378378378378378,0.3166666666666667,37,Histogram as Table or Graph,Translations
+31,49,0.8372093023255814,0.2514291346343386,129,Ordering Positive Decimals,Divisibility Rules
+52,44,0.8369565217391305,0.2786403199247236,276,Exponents,Finding Percents
+36,94,0.8367346938775511,0.38862928348909664,147,Division Fractions,Write Linear Equation from Ordered Pairs
+89,50,0.8363636363636363,0.1853146853146852,55,Order of Operations All,Prime Number
+8,5,0.8358974358974359,0.39222401289282827,195,Venn Diagram,Scatter Plot
+71,28,0.8308270676691729,0.23688553065832907,266,Addition and Subtraction Integers,Calculations with Similar Figures
+55,81,0.8297872340425532,0.34226804123711346,141,Unnamed skill #94,Area Trapezoid
+38,6,0.8272727272727273,0.27056277056277056,110,Least Common Multiple,Stem and Leaf Plot
+90,17,0.8268156424581006,0.15747402078337325,179,Equation Solving Two or Fewer Steps,Congruence
+88,85,0.8255813953488372,0.2436440677966102,172,"Order of Operations +,-,/,* () positive reals",Volume Cylinder
+90,97,0.8252427184466019,0.3146953405017922,206,Equation Solving Two or Fewer Steps,Write Linear Equation from Graph
+71,52,0.8244803695150116,0.16121746818898253,433,Addition and Subtraction Integers,Exponents
+73,36,0.8217391304347826,0.17717668784965512,460,Multiplication and Division Integers,Division Fractions
+89,25,0.821656050955414,0.1838255400601585,157,Order of Operations All,Circumference 
+90,54,0.8214285714285714,0.49012345679012365,252,Equation Solving Two or Fewer Steps,Pattern Finding 
+110,97,0.8212290502793296,0.38720538720538733,179,Solving for a variable,Write Linear Equation from Graph
+39,22,0.8203125,0.32926906712389664,256,Multiplication Fractions,Unit Conversion Within a System
+71,29,0.8180354267310789,0.2086189388169586,621,Addition and Subtraction Integers,Conversion of Fraction Decimals Percents
+73,88,0.8143236074270557,0.3580577668912022,377,Multiplication and Division Integers,"Order of Operations +,-,/,* () positive reals"
+31,29,0.8118022328548644,0.1380266075388028,627,Ordering Positive Decimals,Conversion of Fraction Decimals Percents
+88,53,0.8106508875739645,0.24603174603174605,169,"Order of Operations +,-,/,* () positive reals",Unnamed skill #91
+88,7,0.8071428571428572,0.15592769803296136,280,"Order of Operations +,-,/,* () positive reals",Table
+72,3,0.8068965517241379,0.1931464174454829,145,Addition and Subtraction Positive Decimals,Histogram as Table or Graph
+32,59,0.8066037735849056,0.34343434343434337,212,Ordering Fractions,Unnamed skill #101
+39,10,0.8055555555555556,0.34085957615369394,144,Multiplication Fractions,Median
+39,110,0.8053097345132744,0.23628691983122363,226,Multiplication Fractions,Solving for a variable
+90,61,0.8041958041958042,0.3242424242424241,143,Equation Solving Two or Fewer Steps,Unnamed skill #105
+74,29,0.8017751479289941,0.22945245511617196,676,Addition and Subtraction Fractions,Conversion of Fraction Decimals Percents
+90,77,0.8,0.3456183456183457,60,Equation Solving Two or Fewer Steps,Translations
+35,90,0.7991803278688525,0.10404483430799216,244,Addition Whole Numbers,Equation Solving Two or Fewer Steps
+39,91,0.7991266375545851,0.15049970605526153,229,Multiplication Fractions,Equation Solving More Than Two Steps
+72,4,0.7981651376146789,0.46422764227642266,109,Addition and Subtraction Positive Decimals,Number Line
+90,14,0.7955801104972375,0.34788359788359796,181,Equation Solving Two or Fewer Steps,Probability of a Single Event
+34,15,0.7941176470588235,0.48412698412698413,34,Rounding,Interior Angles Figures with More than 3 Sides
+71,62,0.7928571428571428,0.15253793825222395,140,Addition and Subtraction Integers,D.4.8-understanding-concept-of-probabilities
+38,18,0.7924528301886793,0.6918918918918919,53,Least Common Multiple,Complementary and Supplementary Angles
+72,90,0.7916666666666666,0.1770611665848203,240,Addition and Subtraction Positive Decimals,Equation Solving Two or Fewer Steps
+74,13,0.7894736842105263,0.43699186991869926,228,Addition and Subtraction Fractions,Probability of Two Distinct Events
+72,74,0.7879377431906615,0.19989106753812635,514,Addition and Subtraction Positive Decimals,Addition and Subtraction Fractions
+29,62,0.7841726618705036,0.1001855287569573,139,Conversion of Fraction Decimals Percents,D.4.8-understanding-concept-of-probabilities
+49,25,0.7837837837837838,0.19742063492063489,37,Divisibility Rules,Circumference 
+63,74,0.7833333333333333,0.10636363636363655,60,Absolute Value (#163),Addition and Subtraction Fractions
+39,24,0.7832512315270936,0.2270515372705154,203,Multiplication Fractions,Area Circle
+43,12,0.7832167832167832,0.36024275735715117,143,Unnamed skill #76,Counting Methods
+33,32,0.7816455696202531,0.32984658298465835,316,Ordering Integers,Ordering Fractions
+72,61,0.780952380952381,0.1942567567567568,105,Addition and Subtraction Positive Decimals,Unnamed skill #105
+31,48,0.7808219178082192,0.19217687074829926,73,Ordering Positive Decimals,Scientific Notation
+110,41,0.7791666666666667,0.11546840958605675,240,Solving for a variable,Subtraction Whole Numbers
+74,79,0.7741935483870968,0.34736842105263155,31,Addition and Subtraction Fractions,Area Parallelogram
+41,42,0.7741935483870968,0.22859418558343303,155,Subtraction Whole Numbers,Square Root
+36,79,0.7741935483870968,0.22689075630252098,31,Division Fractions,Area Parallelogram
+54,5,0.7718120805369127,0.23596491228070182,149,Pattern Finding ,Scatter Plot
+34,18,0.7714285714285715,0.5809523809523809,35,Rounding,Complementary and Supplementary Angles
+71,80,0.7702702702702703,0.3554018445322794,74,Addition and Subtraction Integers,Area Rectangle
+29,24,0.7696078431372549,0.22479937365433544,204,Conversion of Fraction Decimals Percents,Area Circle
+33,40,0.7675276752767528,0.22135416666666674,271,Ordering Integers,Percent Of
+74,80,0.7671232876712328,0.28188405797101446,73,Addition and Subtraction Fractions,Area Rectangle
+61,75,0.7666666666666667,0.3388888888888889,30,Unnamed skill #105,Reflection
+71,85,0.7663043478260869,0.22357723577235772,184,Addition and Subtraction Integers,Volume Cylinder
+39,93,0.765625,0.4263888888888888,64,Multiplication Fractions,Greatest Common Factor
+41,46,0.7647058823529411,0.21609195402298853,51,Subtraction Whole Numbers,Scale Factor
+74,12,0.7644444444444445,0.14965277777777786,225,Addition and Subtraction Fractions,Counting Methods
+35,8,0.7634408602150538,0.16905615292712078,93,Addition Whole Numbers,Venn Diagram
+46,47,0.7608695652173914,0.3362068965517241,46,Scale Factor,Unit Rate
+39,95,0.76,0.27030812324929976,175,Multiplication Fractions,Write Linear Equation from Situation
+91,55,0.7586206896551724,0.4331065759637189,203,Equation Solving More Than Two Steps,Unnamed skill #94
+22,51,0.7579617834394905,0.32727272727272727,157,Unit Conversion Within a System,Absolute Value (#85)
+74,82,0.7575757575757576,0.2311507936507936,66,Addition and Subtraction Fractions,Area Triangle
+28,20,0.7570621468926554,0.47427140255009115,177,Calculations with Similar Figures,Pythagorean Theorem
+97,58,0.7540983606557377,0.37142857142857144,61,Write Linear Equation from Graph,Unnamed skill #99
+7,13,0.7531380753138075,0.3620495495495496,239,Table,Probability of Two Distinct Events

@@ -1,0 +1,199 @@
+pre,post,precedence,lift,support,pre_name,post_name
+9,125,0.9882139619220308,0.1603390314275619,1103,Listening: Photographs · tag 11,Reading: Comprehension · tag 152
+5,44,0.9859154929577465,0.10778977266191264,2059,Listening: Photographs · tag 6,Listening: Talks · tag 64
+32,44,0.9850096711798839,0.18390581974870263,2068,Listening: Conversations · tag 52,Listening: Talks · tag 64
+21,35,0.9845132743362832,0.13886052962584838,2260,Listening: Question-Response · tag 24,Listening: Conversations · tag 55
+9,44,0.9804973183812774,0.11216250773212794,2051,Listening: Photographs · tag 11,Listening: Talks · tag 64
+32,39,0.976926853215513,0.20022976525218675,2037,Listening: Conversations · tag 52,Listening: Talks · tag 59
+9,39,0.9714714714714715,0.12344402165095941,1998,Listening: Photographs · tag 11,Listening: Talks · tag 59
+39,125,0.9697802197802198,0.2137857142857143,1092,Listening: Talks · tag 59,Reading: Comprehension · tag 152
+44,125,0.96875,0.23175854773177113,1088,Listening: Talks · tag 64,Reading: Comprehension · tag 152
+21,49,0.9681274900398407,0.1567875647668393,251,Listening: Question-Response · tag 24,Listening: Talks · tag 69
+9,35,0.9609015639374425,0.17219138667457756,2174,Listening: Photographs · tag 11,Listening: Conversations · tag 55
+132,38,0.9580952380952381,0.13296765968867408,525,Reading: Text Completion · tag 179,Listening: Conversations · tag 58
+132,127,0.9489795918367347,0.19155867925909664,196,Reading: Text Completion · tag 179,Reading: Comprehension · tag 157
+44,39,0.9480060575466935,0.16111338731180694,1981,Listening: Talks · tag 64,Listening: Talks · tag 59
+21,38,0.945631067961165,0.13103254769921424,515,Listening: Question-Response · tag 24,Listening: Conversations · tag 58
+21,47,0.9442622950819672,0.14043209876543228,305,Listening: Question-Response · tag 24,Listening: Talks · tag 67
+132,48,0.9432624113475178,0.13440860215053763,282,Reading: Text Completion · tag 179,Listening: Talks · tag 68
+132,45,0.9407407407407408,0.13338129989378844,270,Reading: Text Completion · tag 179,Listening: Talks · tag 65
+132,50,0.9395017793594306,0.12037037037037046,281,Reading: Text Completion · tag 179,Listening: Talks · tag 70
+21,34,0.937799043062201,0.10553672316384177,627,Listening: Question-Response · tag 24,Listening: Conversations · tag 54
+132,121,0.9355036855036855,0.1179471107705356,1628,Reading: Text Completion · tag 179,Reading: Text Completion · tag 143
+4,9,0.9346689895470384,0.13575288207230812,2296,Listening: Photographs · tag 5,Listening: Photographs · tag 11
+132,128,0.9345794392523364,0.1597911674084218,321,Reading: Text Completion · tag 179,Reading: Comprehension · tag 159
+44,80,0.9343832020997376,0.17251852952343227,1905,Listening: Talks · tag 64,Reading: Incomplete Sentences · tag 100
+4,109,0.9341723136495643,0.10862124741200829,2066,Listening: Photographs · tag 5,Reading: Incomplete Sentences · tag 130
+24,40,0.9335038363171355,0.208904109589041,391,Listening: Question-Response · tag 30,Listening: Talks · tag 60
+132,37,0.9309664694280079,0.17608286252354038,507,Reading: Text Completion · tag 179,Listening: Conversations · tag 57
+39,80,0.9308372334893396,0.11999637263687968,1923,Listening: Talks · tag 59,Reading: Incomplete Sentences · tag 100
+39,76,0.9260981912144702,0.13094116664856548,1935,Listening: Talks · tag 59,Reading: Incomplete Sentences · tag 96
+44,109,0.9254658385093167,0.16305307023869892,1932,Listening: Talks · tag 64,Reading: Incomplete Sentences · tag 130
+24,43,0.9253333333333333,0.15826599326599333,375,Listening: Question-Response · tag 30,Listening: Talks · tag 63
+39,55,0.9250128402670775,0.13442604233827637,1947,Listening: Talks · tag 59,Reading: Incomplete Sentences · tag 75
+24,129,0.9244444444444444,0.16812716031351926,225,Listening: Question-Response · tag 30,Reading: Comprehension · tag 167
+63,126,0.9238410596026491,0.15843621399176933,302,Reading: Incomplete Sentences · tag 83,Reading: Comprehension · tag 155
+132,126,0.9225806451612903,0.13700163609747695,310,Reading: Text Completion · tag 179,Reading: Comprehension · tag 155
+44,76,0.92243623112962,0.12951153039832297,1921,Listening: Talks · tag 64,Reading: Incomplete Sentences · tag 96
+44,55,0.9212843086483687,0.16062808773089146,1931,Listening: Talks · tag 64,Reading: Incomplete Sentences · tag 75
+132,124,0.9196428571428571,0.16883557419514006,336,Reading: Text Completion · tag 179,Reading: Comprehension · tag 146
+32,80,0.9182358771060456,0.13374246484980717,2018,Listening: Conversations · tag 52,Reading: Incomplete Sentences · tag 100
+32,109,0.9114658925979681,0.10185221259874966,2067,Listening: Conversations · tag 52,Reading: Incomplete Sentences · tag 130
+24,34,0.9114331723027376,0.12054049311222248,621,Listening: Question-Response · tag 30,Listening: Conversations · tag 54
+44,121,0.9092240117130308,0.19367879116455966,1366,Listening: Talks · tag 64,Reading: Text Completion · tag 143
+8,135,0.9090909090909091,0.29678848283499437,55,Listening: Photographs · tag 10,Listening: Question-Response · tag 182
+44,51,0.908949818934299,0.15290948716129177,1933,Listening: Talks · tag 64,Reading: Incomplete Sentences · tag 71
+24,33,0.9063492063492063,0.13628267406893346,630,Listening: Question-Response · tag 30,Listening: Conversations · tag 53
+44,95,0.9054170249355116,0.1869781038799404,1163,Listening: Talks · tag 64,Reading: Incomplete Sentences · tag 115
+121,127,0.9027027027027027,0.15659825664790905,185,Reading: Text Completion · tag 143,Reading: Comprehension · tag 157
+39,51,0.9021406727828746,0.14035469281651847,1962,Listening: Talks · tag 59,Reading: Incomplete Sentences · tag 71
+4,132,0.9018671298306556,0.17017097318371938,2303,Listening: Photographs · tag 5,Reading: Text Completion · tag 179
+33,48,0.8981132075471698,0.13585902356485502,265,Listening: Conversations · tag 53,Listening: Talks · tag 68
+4,92,0.8962739174219537,0.1141700404858299,993,Listening: Photographs · tag 5,Reading: Incomplete Sentences · tag 112
+39,121,0.8962061560486757,0.12170541239743332,1397,Listening: Talks · tag 59,Reading: Text Completion · tag 143
+27,137,0.8958333333333334,0.3008503401360543,144,Listening: Question-Response · tag 36,Listening: Question-Response · tag 184
+9,132,0.8918217221981826,0.16671379000128517,2311,Listening: Photographs · tag 11,Reading: Text Completion · tag 179
+34,41,0.888030888030888,0.14095168330128494,259,Listening: Conversations · tag 54,Listening: Talks · tag 61
+32,40,0.8862433862433863,0.15461886304909567,378,Listening: Conversations · tag 52,Listening: Talks · tag 60
+33,42,0.8846153846153846,0.12077673284569834,234,Listening: Conversations · tag 53,Listening: Talks · tag 62
+125,119,0.8841463414634146,0.14036821394868504,328,Reading: Comprehension · tag 152,Reading: Incomplete Sentences · tag 141
+121,124,0.8825396825396825,0.15454681061326447,315,Reading: Text Completion · tag 143,Reading: Comprehension · tag 146
+125,29,0.8816568047337278,0.15458937198067646,507,Reading: Comprehension · tag 152,Listening: Question-Response · tag 44
+21,93,0.8816067653276956,0.10944814167277656,946,Listening: Question-Response · tag 24,Reading: Incomplete Sentences · tag 113
+24,136,0.8771498771498771,0.1278336526181354,407,Listening: Question-Response · tag 30,Listening: Question-Response · tag 183
+9,21,0.8748392627518217,0.14540537421494437,2333,Listening: Photographs · tag 11,Listening: Question-Response · tag 24
+21,110,0.8737864077669902,0.1573738026581818,721,Listening: Question-Response · tag 24,Reading: Incomplete Sentences · tag 131
+35,43,0.8735955056179775,0.15298878838441488,356,Listening: Conversations · tag 55,Listening: Talks · tag 63
+9,60,0.872626582278481,0.12649993939638804,1264,Listening: Photographs · tag 11,Reading: Incomplete Sentences · tag 80
+34,50,0.8721804511278195,0.15259740259740273,266,Listening: Conversations · tag 54,Listening: Talks · tag 70
+33,47,0.8716216216216216,0.12807986406117244,296,Listening: Conversations · tag 53,Listening: Talks · tag 67
+22,43,0.8715083798882681,0.17712468193384223,358,Listening: Question-Response · tag 27,Listening: Talks · tag 63
+125,110,0.871313672922252,0.13587974107954848,373,Reading: Comprehension · tag 152,Reading: Incomplete Sentences · tag 131
+33,45,0.87109375,0.157225100748417,256,Listening: Conversations · tag 53,Listening: Talks · tag 65
+109,95,0.8682385575589459,0.1405827505827506,1442,Reading: Incomplete Sentences · tag 130,Reading: Incomplete Sentences · tag 115
+125,120,0.8669724770642202,0.13379329004329008,436,Reading: Comprehension · tag 152,Reading: Incomplete Sentences · tag 142
+21,132,0.8665089557282866,0.15253153301047906,2959,Listening: Question-Response · tag 24,Reading: Text Completion · tag 179
+32,129,0.8651162790697674,0.12756940029667296,215,Listening: Conversations · tag 52,Reading: Comprehension · tag 167
+125,118,0.8641425389755011,0.11815035303890353,449,Reading: Comprehension · tag 152,Reading: Incomplete Sentences · tag 140
+26,139,0.8634146341463415,0.1655727155727157,205,Listening: Question-Response · tag 34,Listening: Talks · tag 194
+44,60,0.8606921029281278,0.1478733737187844,1127,Listening: Talks · tag 64,Reading: Incomplete Sentences · tag 80
+125,30,0.8581235697940504,0.10494358385924651,437,Reading: Comprehension · tag 152,Listening: Question-Response · tag 46
+21,82,0.8571428571428571,0.12141195588055254,756,Listening: Question-Response · tag 24,Reading: Incomplete Sentences · tag 102
+16,139,0.856353591160221,0.15867921837113108,181,Listening: Photographs · tag 18,Listening: Talks · tag 194
+7,131,0.8560606060606061,0.22126022126022138,132,Listening: Photographs · tag 9,Reading: Comprehension · tag 171
+44,56,0.8473469387755102,0.13821006405224295,1225,Listening: Talks · tag 64,Reading: Incomplete Sentences · tag 76
+44,136,0.8467741935483871,0.1454569258968318,248,Listening: Talks · tag 64,Listening: Question-Response · tag 183
+29,46,0.8454935622317596,0.18393335060001748,233,Listening: Question-Response · tag 44,Listening: Talks · tag 66
+17,137,0.845360824742268,0.2826038159371493,97,Listening: Photographs · tag 19,Listening: Question-Response · tag 184
+22,36,0.8421985815602837,0.10240240240240239,564,Listening: Question-Response · tag 27,Listening: Conversations · tag 56
+44,63,0.8415007656967841,0.18761643752314933,1306,Listening: Talks · tag 64,Reading: Incomplete Sentences · tag 83
+26,38,0.8401727861771058,0.15261695798608543,463,Listening: Question-Response · tag 34,Listening: Conversations · tag 58
+132,81,0.8384710234278668,0.13646339579808697,811,Reading: Text Completion · tag 179,Reading: Incomplete Sentences · tag 101
+4,71,0.8380165289256198,0.12079211950991176,605,Listening: Photographs · tag 5,Reading: Incomplete Sentences · tag 91
+125,22,0.8366336633663366,0.10892151519280535,606,Reading: Comprehension · tag 152,Listening: Question-Response · tag 27
+44,65,0.8349864743011722,0.10718149234278274,1109,Listening: Talks · tag 64,Reading: Incomplete Sentences · tag 85
+39,56,0.8343949044585988,0.1328450792326939,1256,Listening: Talks · tag 59,Reading: Incomplete Sentences · tag 76
+3,41,0.834061135371179,0.13456682206682213,229,Listening: Photographs · tag 4,Listening: Talks · tag 61
+16,42,0.8333333333333334,0.14700000000000013,198,Listening: Photographs · tag 18,Listening: Talks · tag 62
+26,130,0.8333333333333334,0.1327658303464756,192,Listening: Question-Response · tag 34,Reading: Comprehension · tag 170
+21,68,0.8311808118081181,0.11406995230524641,1084,Listening: Question-Response · tag 24,Reading: Incomplete Sentences · tag 88
+132,59,0.8309692671394799,0.13036955883511264,846,Reading: Text Completion · tag 179,Reading: Incomplete Sentences · tag 79
+64,126,0.8304498269896193,0.14543864762459924,289,Reading: Incomplete Sentences · tag 84,Reading: Comprehension · tag 155
+7,129,0.8241758241758241,0.16299019607843135,182,Listening: Photographs · tag 9,Reading: Comprehension · tag 167
+21,84,0.8233404710920771,0.10068807339449537,934,Listening: Question-Response · tag 24,Reading: Incomplete Sentences · tag 104
+56,136,0.8232044198895028,0.12749339101177604,362,Reading: Incomplete Sentences · tag 76,Listening: Question-Response · tag 183
+132,51,0.822983870967742,0.11987435061012441,2480,Reading: Text Completion · tag 179,Reading: Incomplete Sentences · tag 71
+125,57,0.8227272727272728,0.11869989375060364,660,Reading: Comprehension · tag 152,Reading: Incomplete Sentences · tag 77
+21,60,0.8210023866348448,0.12586426449087396,1676,Listening: Question-Response · tag 24,Reading: Incomplete Sentences · tag 80
+24,31,0.8203928905519177,0.10144164674700573,1069,Listening: Question-Response · tag 30,Listening: Question-Response · tag 51
+133,131,0.8189655172413793,0.20185185185185173,116,Listening: Photographs · tag 180,Reading: Comprehension · tag 171
+22,128,0.8185053380782918,0.13252334999806215,281,Listening: Question-Response · tag 27,Reading: Comprehension · tag 159
+18,40,0.8184523809523809,0.2235246755707116,336,Listening: Photographs · tag 20,Listening: Talks · tag 60
+60,42,0.8177777777777778,0.12048611111111107,225,Reading: Incomplete Sentences · tag 80,Listening: Talks · tag 62
+19,131,0.816,0.33058419243986253,125,Listening: Photographs · tag 22,Reading: Comprehension · tag 171
+21,62,0.815843621399177,0.10363035540971477,972,Listening: Question-Response · tag 24,Reading: Incomplete Sentences · tag 82
+37,139,0.8148148148148148,0.17649092480553163,189,Listening: Conversations · tag 57,Listening: Talks · tag 194
+4,14,0.8137715179968701,0.11986839623629997,639,Listening: Photographs · tag 5,Listening: Photographs · tag 16
+26,34,0.8129496402877698,0.1347099311701081,556,Listening: Question-Response · tag 34,Listening: Conversations · tag 54
+29,37,0.8117359413202934,0.13624933921963622,409,Listening: Question-Response · tag 44,Listening: Conversations · tag 57
+26,33,0.8109540636042403,0.12724974721941373,566,Listening: Question-Response · tag 34,Listening: Conversations · tag 53
+4,108,0.8102409638554217,0.12440362924353998,664,Listening: Photographs · tag 5,Reading: Incomplete Sentences · tag 129
+44,91,0.8094302554027505,0.13771390318396726,509,Listening: Talks · tag 64,Reading: Incomplete Sentences · tag 111
+4,111,0.8093699515347335,0.10124716553287971,619,Listening: Photographs · tag 5,Reading: Incomplete Sentences · tag 132
+16,46,0.8093023255813954,0.20516304347826075,215,Listening: Photographs · tag 18,Listening: Talks · tag 66
+21,26,0.8086092715231789,0.1067372820291107,1510,Listening: Question-Response · tag 24,Listening: Question-Response · tag 34
+24,30,0.8068506184586108,0.1003096503578157,1051,Listening: Question-Response · tag 30,Listening: Question-Response · tag 46
+9,63,0.804862023653088,0.11937351898200305,1522,Listening: Photographs · tag 11,Reading: Incomplete Sentences · tag 83
+9,79,0.8043143297380585,0.11294360581732882,649,Listening: Photographs · tag 11,Reading: Incomplete Sentences · tag 99
+9,56,0.8034965034965035,0.12939791509354803,1430,Listening: Photographs · tag 11,Reading: Incomplete Sentences · tag 76
+4,85,0.8032258064516129,0.11731774686790963,620,Listening: Photographs · tag 5,Reading: Incomplete Sentences · tag 105
+63,107,0.8030139935414424,0.1270753512132824,929,Reading: Incomplete Sentences · tag 83,Reading: Incomplete Sentences · tag 128
+132,31,0.8018672199170125,0.1432495268991621,964,Reading: Text Completion · tag 179,Listening: Question-Response · tag 51
+12,49,0.8018433179723502,0.17944444444444452,217,Listening: Photographs · tag 14,Listening: Talks · tag 69
+3,134,0.8012048192771084,0.19185094185094176,166,Listening: Photographs · tag 4,Listening: Question-Response · tag 181
+44,107,0.800383877159309,0.11778499278499266,521,Listening: Talks · tag 64,Reading: Incomplete Sentences · tag 128
+33,127,0.8,0.18898809523809545,175,Listening: Conversations · tag 53,Reading: Comprehension · tag 157
+4,10,0.7990430622009569,0.1626641651031896,627,Listening: Photographs · tag 5,Listening: Photographs · tag 12
+4,13,0.7990430622009569,0.12142056598486972,627,Listening: Photographs · tag 5,Listening: Photographs · tag 15
+44,118,0.7988614800759013,0.10716669050002386,527,Listening: Talks · tag 64,Reading: Incomplete Sentences · tag 140
+64,134,0.796812749003984,0.15730376259720336,251,Reading: Incomplete Sentences · tag 84,Listening: Question-Response · tag 181
+63,95,0.7949400798934754,0.1415978147997652,1502,Reading: Incomplete Sentences · tag 83,Reading: Incomplete Sentences · tag 115
+15,138,0.7947368421052632,0.2108843537414966,190,Listening: Photographs · tag 17,Listening: Question-Response · tag 185
+24,23,0.7932564330079858,0.12827759052804422,1127,Listening: Question-Response · tag 30,Listening: Question-Response · tag 28
+57,33,0.7924217462932455,0.11687779777562413,607,Reading: Incomplete Sentences · tag 77,Listening: Conversations · tag 53
+9,29,0.7924016282225237,0.14140296918436157,737,Listening: Photographs · tag 11,Listening: Question-Response · tag 44
+54,116,0.7920560747663551,0.12165147749240546,856,Reading: Incomplete Sentences · tag 74,Reading: Incomplete Sentences · tag 137
+44,115,0.7895752895752896,0.10409698996655514,518,Listening: Talks · tag 64,Reading: Incomplete Sentences · tag 136
+56,115,0.7884615384615384,0.11853852362326939,936,Reading: Incomplete Sentences · tag 76,Reading: Incomplete Sentences · tag 136
+9,17,0.7881219903691814,0.11803823053823048,623,Listening: Photographs · tag 11,Listening: Photographs · tag 19
+125,37,0.7878787878787878,0.16747322235127127,264,Reading: Comprehension · tag 152,Listening: Conversations · tag 57
+4,84,0.7864077669902912,0.11671992290525457,618,Listening: Photographs · tag 5,Reading: Incomplete Sentences · tag 104
+57,36,0.7858376511226253,0.11898776604658956,579,Reading: Incomplete Sentences · tag 77,Listening: Conversations · tag 56
+56,106,0.7841269841269841,0.10516838598127215,945,Reading: Incomplete Sentences · tag 76,Reading: Incomplete Sentences · tag 126
+4,61,0.784037558685446,0.1427015250544662,639,Listening: Photographs · tag 5,Reading: Incomplete Sentences · tag 81
+44,81,0.7821782178217822,0.11973436831034423,505,Listening: Talks · tag 64,Reading: Incomplete Sentences · tag 101
+18,36,0.7809330628803245,0.14898013955984968,493,Listening: Photographs · tag 20,Listening: Conversations · tag 56
+92,130,0.7795698924731183,0.16203404438698554,186,Reading: Incomplete Sentences · tag 112,Reading: Comprehension · tag 170
+33,137,0.7788461538461539,0.30024509803921573,104,Listening: Conversations · tag 53,Listening: Question-Response · tag 184
+132,75,0.7774158523344191,0.10203208145096765,921,Reading: Text Completion · tag 179,Reading: Incomplete Sentences · tag 95
+44,29,0.7774086378737541,0.1157516891891891,602,Listening: Talks · tag 64,Listening: Question-Response · tag 44
+44,79,0.776735459662289,0.14260697989887794,533,Listening: Talks · tag 64,Reading: Incomplete Sentences · tag 99
+35,63,0.776414451261077,0.12240207833733013,1467,Listening: Conversations · tag 55,Reading: Incomplete Sentences · tag 83
+14,49,0.7761194029850746,0.16505636070853458,201,Listening: Photographs · tag 16,Listening: Talks · tag 69
+92,41,0.7757009345794392,0.17267139479905436,214,Reading: Incomplete Sentences · tag 112,Listening: Talks · tag 61
+132,108,0.7752928647497338,0.1435707206479785,939,Reading: Text Completion · tag 179,Reading: Incomplete Sentences · tag 129
+20,138,0.7750865051903114,0.11899527764207773,289,Listening: Question-Response · tag 23,Listening: Question-Response · tag 185
+19,134,0.7741935483870968,0.30942452043369484,155,Listening: Photographs · tag 22,Listening: Question-Response · tag 181
+122,135,0.7741935483870968,0.2591036414565825,62,Reading: Incomplete Sentences · tag 144,Listening: Question-Response · tag 182
+52,50,0.7740585774058577,0.11515151515151523,239,Reading: Incomplete Sentences · tag 72,Listening: Talks · tag 70
+56,102,0.7737373737373737,0.11356729698906676,990,Reading: Incomplete Sentences · tag 76,Reading: Incomplete Sentences · tag 122
+7,124,0.7737226277372263,0.13732638888888882,274,Listening: Photographs · tag 9,Reading: Comprehension · tag 146
+8,138,0.7736842105263158,0.13636363636363646,190,Listening: Photographs · tag 10,Listening: Question-Response · tag 185
+39,112,0.7735507246376812,0.11750369571297292,552,Listening: Talks · tag 59,Reading: Incomplete Sentences · tag 133
+54,82,0.7734806629834254,0.10975049747436083,724,Reading: Incomplete Sentences · tag 74,Reading: Incomplete Sentences · tag 102
+21,101,0.7724137931034483,0.14133558220889564,1015,Listening: Question-Response · tag 24,Reading: Incomplete Sentences · tag 121
+76,81,0.7722371967654986,0.13979528128286023,742,Reading: Incomplete Sentences · tag 96,Reading: Incomplete Sentences · tag 101
+57,93,0.769394261424017,0.13915030135578293,941,Reading: Incomplete Sentences · tag 77,Reading: Incomplete Sentences · tag 113
+33,135,0.7678571428571429,0.6254385964912281,56,Listening: Conversations · tag 53,Listening: Question-Response · tag 182
+35,115,0.7671009771986971,0.12882087578750867,614,Listening: Conversations · tag 55,Reading: Incomplete Sentences · tag 136
+58,110,0.7654135338345864,0.10224230254350741,665,Reading: Incomplete Sentences · tag 78,Reading: Incomplete Sentences · tag 131
+57,102,0.763506625891947,0.10496322917706558,981,Reading: Incomplete Sentences · tag 77,Reading: Incomplete Sentences · tag 122
+44,23,0.7628676470588235,0.1039650150857182,544,Listening: Talks · tag 64,Listening: Question-Response · tag 28
+133,46,0.7624309392265194,0.16882051282051275,181,Listening: Photographs · tag 180,Listening: Talks · tag 66
+2,130,0.7621951219512195,0.13248924197285683,164,Listening: Photographs · tag 3,Reading: Comprehension · tag 170
+44,48,0.7613168724279835,0.16374269005847952,243,Listening: Talks · tag 64,Listening: Talks · tag 68
+44,31,0.7612781954887218,0.1033567814389732,532,Listening: Talks · tag 64,Listening: Question-Response · tag 51
+132,23,0.7607843137254902,0.10119757213093039,1020,Reading: Text Completion · tag 179,Listening: Question-Response · tag 28
+125,128,0.7607655502392344,0.15200421940928266,209,Reading: Comprehension · tag 152,Reading: Comprehension · tag 159
+24,53,0.7602272727272728,0.10055276340233554,880,Listening: Question-Response · tag 30,Reading: Incomplete Sentences · tag 73
+76,71,0.7594086021505376,0.10053332657166525,744,Reading: Incomplete Sentences · tag 96,Reading: Incomplete Sentences · tag 91
+23,47,0.758893280632411,0.11249694301785285,253,Listening: Question-Response · tag 28,Listening: Talks · tag 67
+63,67,0.7581227436823105,0.11338467034493716,1108,Reading: Incomplete Sentences · tag 83,Reading: Incomplete Sentences · tag 87
+54,62,0.7573604060913706,0.1168235421399978,985,Reading: Incomplete Sentences · tag 74,Reading: Incomplete Sentences · tag 82
+24,93,0.7568181818181818,0.12485511064278193,880,Listening: Question-Response · tag 30,Reading: Incomplete Sentences · tag 113
+79,45,0.7557603686635944,0.14751951385614737,217,Reading: Incomplete Sentences · tag 99,Listening: Talks · tag 65
+35,65,0.7543035993740219,0.10237179487179493,1278,Listening: Conversations · tag 55,Reading: Incomplete Sentences · tag 85
+123,118,0.7539893617021277,0.10630800017592468,752,Reading: Incomplete Sentences · tag 145,Reading: Incomplete Sentences · tag 140
+24,82,0.7539118065433855,0.14671123652961116,703,Listening: Question-Response · tag 30,Reading: Incomplete Sentences · tag 102
+24,107,0.7538461538461538,0.16564417177914115,845,Listening: Question-Response · tag 30,Reading: Incomplete Sentences · tag 128
+57,98,0.7532210109018831,0.10350877192982455,1009,Reading: Incomplete Sentences · tag 77,Reading: Incomplete Sentences · tag 118

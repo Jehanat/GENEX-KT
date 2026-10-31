@@ -1,0 +1,16 @@
+{
+  "backend": "template",
+  "prompt_mode": "grounded",
+  "n": 100,
+  "cutoff": "pre_test",
+  "faithfulness_pass_rate": 1.0,
+  "claim_level_faithfulness": 1.0,
+  "n_without_claims": 11,
+  "n_parse_errors": 0,
+  "llm": "template",
+  "generation_seconds_per_student": 0.0,
+  "future_acc_on_flagged_gaps": 0.4782608695652174,
+  "n_gap_concepts_seen_in_test": 23,
+  "future_acc_on_flagged_mastered": 0.85,
+  "n_mastered_concepts_seen_in_test": 25
+}

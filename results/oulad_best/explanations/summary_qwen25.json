@@ -1,0 +1,16 @@
+{
+  "backend": "qwen25",
+  "prompt_mode": "grounded",
+  "n": 100,
+  "cutoff": "pre_test",
+  "faithfulness_pass_rate": 0.94,
+  "claim_level_faithfulness": 0.9625668449197861,
+  "n_without_claims": 0,
+  "n_parse_errors": 0,
+  "llm": "Qwen/Qwen2.5-7B-Instruct",
+  "generation_seconds_per_student": 4.22,
+  "future_acc_on_flagged_gaps": 0.0,
+  "n_gap_concepts_seen_in_test": 1,
+  "future_acc_on_flagged_mastered": 0.9868421052631579,
+  "n_mastered_concepts_seen_in_test": 76
+}

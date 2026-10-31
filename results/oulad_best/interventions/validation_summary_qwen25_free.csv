@@ -1,0 +1,3 @@
+plan,len,error_coverage,struggle_recall,precision_seen,prereq_order_ok
+baseline,0.01,0.0,0.0,0.0,
+genex,1.86,0.25,0.25,0.2,1.0

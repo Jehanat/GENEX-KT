@@ -1,0 +1,16 @@
+{
+  "backend": "phi35",
+  "prompt_mode": "grounded",
+  "n": 100,
+  "cutoff": "pre_test",
+  "faithfulness_pass_rate": 0.93,
+  "claim_level_faithfulness": 0.93048128342246,
+  "n_without_claims": 1,
+  "n_parse_errors": 1,
+  "llm": "microsoft/Phi-3.5-mini-instruct",
+  "generation_seconds_per_student": 9.63,
+  "future_acc_on_flagged_gaps": 0.5,
+  "n_gap_concepts_seen_in_test": 2,
+  "future_acc_on_flagged_mastered": 0.9743589743589743,
+  "n_mastered_concepts_seen_in_test": 78
+}

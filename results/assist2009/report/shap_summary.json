@@ -1,0 +1,8 @@
+{
+  "n_attributions": 236,
+  "mean_own_concept_share": 0.2673565279929262,
+  "mean_prerequisite_share": 0.07028807994966477,
+  "mean_other_share": 0.662355392057409,
+  "own_history_lowers_weak_concepts": 0.6016949152542372,
+  "mean_total_abs_attribution": 0.23896495064413767
+}

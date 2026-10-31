@@ -1,0 +1,5 @@
+backend,prompt_mode,n,cutoff,faithfulness_pass_rate,claim_level_faithfulness,n_without_claims,n_parse_errors,llm,generation_seconds_per_student,future_acc_on_flagged_gaps,n_gap_concepts_seen_in_test,future_acc_on_flagged_mastered,n_mastered_concepts_seen_in_test,dataset
+phi35,grounded,100,pre_test,0.18,0.593103448275862,25,25,microsoft/Phi-3.5-mini-instruct,23.99,0.5175438596491228,19,0.6447172619047619,16,ednet
+qwen25,grounded,100,pre_test,0.8,0.9397217928902628,0,0,Qwen/Qwen2.5-7B-Instruct,19.14,0.4747474747474747,33,0.8398531648531649,37,ednet
+qwen25_free,free,100,pre_test,0.16,0.5379061371841155,1,1,Qwen/Qwen2.5-7B-Instruct,15.39,0.5062962962962962,45,0.8390151515151516,28,ednet
+template,grounded,100,pre_test,1.0,1.0,10,0,template,0.0,0.4702380952380952,28,0.8947368421052632,19,ednet

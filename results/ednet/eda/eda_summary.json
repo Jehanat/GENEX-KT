@@ -1,0 +1,36 @@
+{
+  "dataset": "ednet",
+  "n_students": 56581,
+  "n_interactions": 12008950,
+  "n_concepts": 141,
+  "n_items": 12265,
+  "overall_accuracy": 0.6561562001673752,
+  "seq_len": {
+    "min": 10.0,
+    "p25": 18.0,
+    "median": 30.0,
+    "p75": 105.0,
+    "max": 26253.0,
+    "mean": 212.2435093052438
+  },
+  "share_seq_over_200": 0.17449320443258337,
+  "concepts_per_student_median": 20.0,
+  "student_accuracy_median": 0.5487804878048781,
+  "student_accuracy_iqr": [
+    0.4,
+    0.6597633136094675
+  ],
+  "response_time_available": 1.0,
+  "response_time_median_s": 21.0,
+  "split_counts": {
+    "train": 9608396,
+    "val": 1200277,
+    "test": 1200277
+  },
+  "split_accuracy": {
+    "test": 0.6588970712593842,
+    "train": 0.6541212497902876,
+    "val": 0.669705409667935
+  },
+  "items_per_concept_median": 41.0
+}

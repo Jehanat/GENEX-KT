@@ -1,0 +1,13 @@
+{
+  "val_auc": 0.8266892758677963,
+  "d_model": 128,
+  "n_heads": 4,
+  "n_layers": 3,
+  "dropout": 0.037865233241726665,
+  "diffusion_steps": 200,
+  "lambda_diff": 0.15329907157930053,
+  "lambda_noisy_bce": 0.009318574480953162,
+  "lr": 0.0003444021145924336,
+  "batch_size": 128,
+  "weight_decay": 2.2522558029817198e-05
+}

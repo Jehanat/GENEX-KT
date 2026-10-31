@@ -1,0 +1,13 @@
+{
+  "datasets": [
+    "ednet"
+  ],
+  "genex_minus_best_baseline_auc": {
+    "ednet": -0.09149636898379343
+  },
+  "genex_rank": {
+    "ednet": 2
+  },
+  "genex_delta_mean": -0.09149636898379343,
+  "genex_delta_sd": 0.0
+}

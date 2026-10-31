@@ -1,0 +1,36 @@
+{
+  "dataset": "assist2009",
+  "n_students": 3002,
+  "n_interactions": 277540,
+  "n_concepts": 112,
+  "n_items": 17705,
+  "overall_accuracy": 0.6585140880593788,
+  "seq_len": {
+    "min": 10.0,
+    "p25": 18.0,
+    "median": 34.0,
+    "p75": 93.0,
+    "max": 1061.0,
+    "mean": 92.45169886742173
+  },
+  "share_seq_over_200": 0.10626249167221852,
+  "concepts_per_student_median": 6.0,
+  "student_accuracy_median": 0.6659779614325069,
+  "student_accuracy_iqr": [
+    0.5,
+    0.7857142857142857
+  ],
+  "response_time_available": 1.0,
+  "response_time_median_s": 20.166,
+  "split_counts": {
+    "train": 222050,
+    "val": 27745,
+    "test": 27745
+  },
+  "split_accuracy": {
+    "test": 0.6396467832041809,
+    "train": 0.6614411168655708,
+    "val": 0.6539556676878717
+  },
+  "items_per_concept_median": 107.0
+}

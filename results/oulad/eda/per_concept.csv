@@ -1,0 +1,15 @@
+skill,interactions,accuracy,students,items,name
+9,29160,0.9970507544581618,4401,28,Module FFF – Computer-marked assessment
+3,24381,0.9595996882818588,4622,23,Module BBB – Tutor-marked assessment
+10,21401,0.9671510677071165,4442,20,Module FFF – Tutor-marked assessment
+7,19543,0.9191526377731157,3464,24,Module DDD – Tutor-marked assessment
+2,15173,0.9929479997363738,3373,15,Module BBB – Computer-marked assessment
+11,9395,0.984140500266099,1728,18,Module GGG – Computer-marked assessment
+4,8634,0.9201992124160296,2548,8,Module CCC – Computer-marked assessment
+5,6814,0.9232462577047256,2119,8,Module CCC – Tutor-marked assessment
+12,5086,0.9775855289028706,1724,9,Module GGG – Tutor-marked assessment
+6,4946,0.9225636878285484,845,7,Module DDD – Computer-marked assessment
+14,3021,0.8904336312479312,3017,4,Module DDD – Final exam
+1,2826,0.9805378627034678,561,10,Module AAA – Tutor-marked assessment
+8,2576,0.984860248447205,665,12,Module EEE – Tutor-marked assessment
+13,1889,0.8793012175754368,1889,2,Module CCC – Final exam
